@@ -1,1 +1,1 @@
-# I will be turning the weekly PowerPoint tasks in class into working code for quick reference / practice.
+# This repository is for CSCI-C343 related projects and turning the weekly PowerPoint tasks into functioning code for quick reference / further understanding.
